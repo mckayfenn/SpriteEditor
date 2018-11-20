@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bucket.png</file>
+        <file>pen.png</file>
+        <file>clockwise-rotate.png</file>
+        <file>color-caster.png</file>
+        <file>color-picker.png</file>
+        <file>counterclockwise-rotate.png</file>
+        <file>eraser.png</file>
+        <file>flip-horizontal.png</file>
+        <file>flip-vertical.png</file>
+        <file>line.png</file>
+        <file>redo.png</file>
+        <file>mirror-vertical.png</file>
+        <file>mirror-horizontal.png</file>
+        <file>undo.png</file>
+        <file>rectangle.png</file>
+        <file>Circle.png</file>
+        <file>redo-black.png</file>
+        <file>undo-black.png</file>
+    </qresource>
+</RCC>
